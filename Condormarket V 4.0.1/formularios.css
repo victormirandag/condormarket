@@ -1,0 +1,26 @@
+﻿body {
+    color:black;
+    font-family:Calibri;
+    font-size:large;
+    background:url("https://tusociodenegocio.com/wp-content/uploads/2019/02/emprender-negocio-exitoso-tsdn.jpg") no-repeat center center fixed;
+    background-size:cover;
+}
+.modal-content {
+    width:80%;
+    height:80%;
+background:url("https://st2.depositphotos.com/3047297/8882/i/950/depositphotos_88827542-stock-photo-colorful-watercolor-background-texture.jpg")no-repeat center center fixed;
+background-size:cover;
+margin:20px 20px 20px 20px;
+padding:20px;
+}
+
+.modal-content2 {
+
+background:#808080;
+background:url("https://st2.depositphotos.com/3047297/8882/i/950/depositphotos_88827542-stock-photo-colorful-watercolor-background-texture.jpg")no-repeat center center fixed;
+background-size:cover;
+opacity:0.95;
+margin:2% 5%;
+padding:2%;
+}
+

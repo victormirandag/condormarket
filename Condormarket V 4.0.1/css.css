@@ -1,0 +1,23 @@
+﻿body {
+
+    background:url("https://tusociodenegocio.com/wp-content/uploads/2019/02/emprender-negocio-exitoso-tsdn.jpg") no-repeat center center fixed;
+    background-size:cover;
+
+}
+.modal-content {
+    background-color:#3e3333;
+    opacity: .85;
+
+}
+
+
+.user-img img {
+width:100px;
+height:100px;
+    text-align: center;
+}
+.main-section{
+    margin:0 auto;
+    margin-top:25%;
+    padding:0;
+}
